@@ -380,7 +380,7 @@ So let's start the Jupyter Notebook app:
     >Note: It is **VERY IMPORTANT** that you **ALWAYS** work on the files on your `sidecar-academy-workspace` repository, and **NEVER** work on files that are in your `sidecar-academy-batch2` repository!
 
     ```bash
-    cd ~/projects/sidecar-academy-batch2/sample/"SLU00 - LU Tutorial"
+    cd ~/projects/sidecar-academy-workspace/sample/"SLU00 - LU Tutorial"
     ```
 
 1. Installing the necessary packages
